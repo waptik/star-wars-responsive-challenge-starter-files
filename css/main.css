@@ -1,3 +1,8 @@
+/**
+*Waptik made this on 4/4/2018 15:48
+*
+**/
+
 body {
 
   font-family: "Roboto", helvetica, sans-serif;
@@ -21,4 +26,24 @@ header h1 {
 
 header p {
 	margin-top: 20px;
+}
+
+.content {
+	margin-bottom: 20px;
+	border: 1px solid rgb(230, 230, 230);
+}
+
+.content-image {
+	width: 100px;
+}
+
+.content-text {
+	padding: 10px;
+}
+
+.content-text h3 {
+	margin: 0 0 0 0;
+}
+.content-text p {
+	margin: 20px 0;
 }
