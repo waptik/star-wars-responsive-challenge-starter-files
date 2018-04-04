@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**
 *Waptik made this on 4/4/2018 15:48
 *
@@ -57,4 +58,35 @@ footer {
 
 footer a{
 	color: rgb(17, 17, 17);
+=======
+main {
+  padding-top: 100px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.box {
+  height: 200px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
+
+.green {
+  background-color: green;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.blue {
+  background-color: blue;
+>>>>>>> 2867032e046e524239fffde26b2bf416c0d94bcc
 }
