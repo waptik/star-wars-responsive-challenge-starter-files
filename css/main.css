@@ -1,0 +1,28 @@
+body {
+
+  font-family: "Roboto", helvetica, sans-serif;
+  font-size: 18px;
+}
+
+body * {
+	box-sizing: border-box;
+}
+
+header {
+
+  margin-bottom: 30px;
+}
+
+.hbar {
+	background: rgb(242, 191, 12);
+  	left: 0;
+  	right: 0;
+	height: 20%;
+	width: 100%;
+	position: fixed;
+	padding-left: 30px;
+}
+
+section.req {
+	padding-top: 200px;
+}
