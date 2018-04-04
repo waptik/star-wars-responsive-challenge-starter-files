@@ -2,6 +2,7 @@ body {
 
   font-family: "Roboto", helvetica, sans-serif;
   font-size: 18px;
+  color: rgb(34, 34, 34);
 }
 
 body * {
@@ -9,8 +10,8 @@ body * {
 }
 
 header {
-
-  margin-bottom: 30px;
+  background-color: #eebb44;
+  margin-bottom: 40px;
 }
 
 .hbar {
