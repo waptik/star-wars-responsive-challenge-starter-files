@@ -3,15 +3,15 @@
 *
 **/
 
+ * {
+	box-sizing: border-box;
+}
+
 body {
 
   font-family: "Roboto", helvetica, sans-serif;
   font-size: 18px;
   color: rgb(34, 34, 34);
-}
-
-body * {
-	box-sizing: border-box;
 }
 
 header {
@@ -30,11 +30,12 @@ header p {
 
 .content {
 	margin-bottom: 20px;
-	border: 1px solid rgb(230, 230, 230);
+	border: 2px solid rgb(230, 230, 230);
+	width: 100%;
 }
 
 .content-image {
-	width: 100px;
+	width: 100%;
 }
 
 .content-text {
@@ -44,6 +45,16 @@ header p {
 .content-text h3 {
 	margin: 0 0 0 0;
 }
+
 .content-text p {
 	margin: 20px 0;
+}
+
+footer {
+	margin-top: 100px;
+	text-align: center;
+}
+
+footer a{
+	color: rgb(17, 17, 17);
 }
